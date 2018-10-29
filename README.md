@@ -10,4 +10,4 @@
 
 [3 - canonical and media urls and catlog views](../../tree/48285e85b4a26d40587fbbbb12f13552987510dc/)
 
-[4 - Creating catlog templates](../../tree/48285e85b4a26d40587fbbbb12f13552987510dc/)
+[4 - Creating catlog templates](../../tree/6913d64bccf54a3205671e922c58c4310628c223/)
