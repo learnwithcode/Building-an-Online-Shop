@@ -1,8 +1,8 @@
-# Building an OnlineShop Application
+# Building an Online-Shop Application
 
 [0 - Initial Commit](../../tree/4ecc2c711cc45c8132fe530026c077464cdb7b6d/)
 
-## Creating an OnlineShop project
+## Creating an Online-Shop project
 
 [1 - Creating product catlog models](../../tree/24d81b3be832c98ca75bd3d1b47a7ae81c323ef8/)
 
